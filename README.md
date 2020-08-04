@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...leelasaibheesetti@gmail.com 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Half Finish
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=leelasaiprasanth&show_icons=true)

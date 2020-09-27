@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 💻 Engineer by day, Designer by night 🎨
-- 🔭 I’m currently working on ... YouTube 
-- 🌱 I’m currently learning ... Javascript 
+- 🔭 I’m currently working on ... Blender
+- 🌱 I’m currently learning ... Node-Js 
 - 👯 I’m looking to collaborate on ... python 
 - 🤔 I’m looking for help with ... Bypy python module
 - 💬 Ask me about ... procedural modelling 

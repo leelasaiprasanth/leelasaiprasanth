@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="Artstation"></a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=leelasaiprasanth&show_icons=true)![alt leela_sai_prasanth ](https://cdnb.artstation.com/p/users/avatars/001/357/645/large/e1ad98526c90343da152b9e6e962b2fd.jpg)
+![Github stats](https://github-readme-stats.vercel.app/api?username=leelasaiprasanth&show_icons=true)

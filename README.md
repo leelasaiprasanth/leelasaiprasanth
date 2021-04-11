@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Half Finish
 
-![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
+
 <p align="left">
 	<a href="https://github.com/leelasaiprasanth"><img src="https://img.shields.io/github/followers/leelasaiprasanth.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.instagram.com/leela_sai_prasanth"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Artstation"></a>

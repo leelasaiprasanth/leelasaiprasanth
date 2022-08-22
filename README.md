@@ -32,8 +32,6 @@
 
 [![Activity graph](https://activity-graph.herokuapp.com/graph?username=leelasaiprasanth&&theme=xcode)](https://github.com/leelasaiprasanth)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leelasaiprasanth&show_icons=true&locale=en&layout=compact" alt="leelasaiprasanth" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leelasaiprasanth&show_icons=true&theme=radical&locale=en&layout=compact" alt="leelasaiprasanth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leelasaiprasanth&show_icons=true&locale=en" alt="leelasaiprasanth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leelasaiprasanth&" alt="leelasaiprasanth" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leelasaiprasanth&theme=radical)](https://git.io/streak-stats)

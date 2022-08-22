@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 	<a href="https://www.youtube.com/channel/UC9JsGMuhp4ZC0VxdIlLuukw">
 <img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="Artstation"></a>
 </p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=leelasaiprasanth&show_icons=true)

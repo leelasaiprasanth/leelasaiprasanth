@@ -1,5 +1,3 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/040/452/112/large/leela_sai_prasanth-bheesetti-02-ancher-boy.jpg?1628880218)](https://github.com/leelasaiprasanth)
-
 <h1 align="center">A passionate Engineer by day, Designer by night (⊙_◎) </h1>
 <img align="right" alt="Myself" width="325" height="400" src="https://cdna.artstation.com/p/assets/images/images/040/451/496/large/leela_sai_prasanth-bheesetti-output.jpg?1628878818">
 

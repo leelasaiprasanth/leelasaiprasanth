@@ -1,5 +1,5 @@
 <h1 align="center">A passionate Engineer by day, Designer by night (⊙_◎) </h1>
-<img align="right" alt="Myself" width="325" height="400" src="https://cdna.artstation.com/p/assets/images/images/040/451/496/large/leela_sai_prasanth-bheesetti-output.jpg?1628878818">
+<img align="right" alt="Myself" width="500" height="600" src="https://cdna.artstation.com/p/assets/images/images/040/451/496/large/leela_sai_prasanth-bheesetti-output.jpg?1628878818">
 
 - 🔭 Createing **Abstract Designs**
 

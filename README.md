@@ -9,11 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a><img src="Public/linkedin.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/instagram.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/behance.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/leetcode.svg" alt="" height="40" width="40" /></a><br>
-    <a><img src="Public/artstation-logo-white.png" alt="" height="40" width="180" /></a>
+    <a><img src="Public/linkedin.svg" alt="" height="30" width="40" /></a>
+    <a><img src="Public/instagram.svg" alt="" height="30" width="40" /></a>
+    <a><img src="Public/behance.svg" alt="" height="30" width="40" /></a>
+    <a><img src="Public/leetcode.svg" alt="" height="30" width="40" /></a><br>
 
 </p>
 

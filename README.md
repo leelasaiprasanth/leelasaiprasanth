@@ -30,7 +30,6 @@
     <a><img src="Public/react-original-wordmark.svg" alt="" height="40" width="40" /></a>
     <a><img src="Public/nodejs-original-wordmark.svg" alt="" height="40" width="40" /></a>
     <a><img src="Public/typescript-original.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/ruby-original.svg" alt="" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Design Tools:</h3>

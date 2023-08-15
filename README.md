@@ -1,45 +1,16 @@
-<h1 align="center">👨🏻‍💻 Engineer by day, Designer by night👨🏻‍🎨</h1>
-<img align="right"src="Public/face.jpeg" width="400" height="500" >
 
-        ℓєєℓα ѕαι ρяαѕαηтн
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/leelasaiprasanth)
+[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://gitlab.com/leelasaibheesetti)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://www.instagram.com/leela_sai_prasanth/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leelasaiprasanth/)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@leelasaiprasanth)
 
-    - 🌱 learning * Webstack *
+- [![Leela Sai Prasanth]( )]() 
 
-    - 🔭 Createing **Abstract Designs**
+> ℓєєℓα ѕαι ρяαѕαηтн 🧋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a><img src="Public/linkedin.svg" alt="" height="30" width="40" /></a>
-    <a><img src="Public/instagram.svg" alt="" height="30" width="40" /></a>
-    <a><img src="Public/behance.svg" alt="" height="30" width="40" /></a>
-    <a><img src="Public/leetcode.svg" alt="" height="30" width="40" /></a><br>
-
-</p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-    <a><img src="Public/cplusplus-original.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/python-original.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/javascript-original.svg" alt="" height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Web Stack:</h3>
-<p align="left">
-    <a><img src="Public/git-scm-icon.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/angular.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/react-original-wordmark.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/nodejs-original-wordmark.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/typescript-original.svg" alt="" height="40" width="40" /></a>
-</p>
-
-<h3 align="left">Design Tools:</h3>
-
-<p align="left">
-    <a><img src="Public/blender_community_badge_white.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/unity3d-icon.svg" alt="" height="40" width="40" /></a>
-    <a><img src="Public/photoshop-line.svg" alt="" height="40" width="40" /></a>
-</p>
-
-## Refernce materials:
-
-Sample Readme : https://github.com/othneildrew/Best-README-Template
+- 👨🏻‍💻 Engineer by day, Designer by night 👨🏻‍🎨
+- 🧰 I build with: `Python`, `React`, `Django`, `JavaScript`, `Next.js`,...
+- 🫠 I Design with: `Blender`, `Krita`, `Unity`,...
+- ⚡ I enjoy photography, reading, arts,... 
+- 📫 Reach out to me: leelasaibheesetti@gmail.com

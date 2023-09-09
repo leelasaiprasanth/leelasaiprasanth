@@ -13,4 +13,5 @@
 - 🧰 I build with: `Python`, `React\Angular`, Novince `JAVA`
 - 🫠 I Design with: `Blender`, `Krita`, `Unity`,...
 - ⚡ I enjoy photography, reading, arts,...
-  ![LeelaSaiPrasanth](/github-metrics.svg "GITHUB STATS")
+
+![LeelaSaiPrasanth](/github-metrics.svg "GITHUB STATS")

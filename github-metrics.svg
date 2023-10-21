@@ -2243,13 +2243,13 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">jsondata</span></div>
+                                    <div>on branch <span class="code">filtering</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cdb1bf6</div>
-                                        <div class="message">retirved the json data from file to the application : httpClient Module</div>
+                                        <div class="sha">#11e6ba8</div>
+                                        <div class="message">failing to load the data</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">21 Oct 2023, 04:16:33</div>
+                                <div class="timestamp">21 Oct 2023, 16:09:25</div>
                             </section>
                         </div>
                     </section>
@@ -2257,7 +2257,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 15:33:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 16:32:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

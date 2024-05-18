@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="639" class="columns">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="473" class="columns">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .twemoji{margin-top:.25em;margin-left:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            2 issue comments
+                            3 issue comments
                         </div>
                     </section>
                     <section>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 48 users
+                            Following 49 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2235,331 +2235,31 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1503 commits in
-                                        <span class="repo">leelasaiprasanth/zed</span>
+                                        Commented on
+                                        <span class="issue">#64 Menu collapse button</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#96b812b</div>
-                                        <div class="message">Pin Vue language server to 1.8 (#9846)
-
-After `@vue/language-server` release 2.0, vue lsp doesn't work. I tried
-to support 2.0, but since I'm not familiar with `@vue/language-server`
-and `zed` I was unsuccessful. To avoid long-term unavailability, I
-temporarily fixed the version to 1.8 until we have 2.0 support.
-
-Release Notes:
-
-- Pinned `@vue/language-server` to version `1.8` until Zed supports
-`2.x`. ([#9388](https://github.com/zed-industries/zed/issues/9388) &amp;
-[#9329](https://github.com/zed-industries/zed/issues/9329)).
-
----------
-
-Co-authored-by: Thorsten Ball &lt;mrnugget@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de4a54a</div>
-                                        <div class="message">chore: Bump ahash 0.7.6 (yanked) -&gt; 0.7.8 (#9860)
-
-Fixes #9855 
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63f17c5</div>
-                                        <div class="message">Fix mac bundling errors (#9848)
-
-Based on
-https://github.com/zed-industries/zed/pull/8952#issuecomment-2021693384
-and
-https://github.com/zed-industries/zed/pull/8952#issuecomment-2022241455
-
-Fixes `./script/bundle-mac -l` workflow errors
-
-* Use proper WebRTC.framework location path (without the arch name dir
-in its path)
-
-* Fix `./script/bundle-mac -l` behavior that unconditionally installed
-the app and broke it on rerun.
-Now the installation is done with `-i` flag only and always cleans up
-the target dir (always using `-f` flag logic, hence removed it).
-
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#140b841</div>
-                                        <div class="message">Stop reading deserialize_fingerprint (#9668)
-
-Release Notes:
-
-- N/A
-
----------
-
-Co-authored-by: Piotr Osiewicz &lt;24362066+osiewicz@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8583c3b</div>
-                                        <div class="message">Add go to implementation shortcut (#9837)
-
-This adds a keybinding for an existing action. Notably, our bindings for
-`Go To Type Definition` and `Go To Implementation` are swapped from
-VSCode. We use `cmd` and `shift`, they use `shift` and `cmd`.
-
-Release Notes:
-
-- Added a keybinding for `editor::GoToImplementation`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40f60eb</div>
-                                        <div class="message">Fix the linux keymap (#9829)
-
-Earlier versions where a simple find-replace of `cmd` =&gt; `ctrl`. In this
-PR, I've gone over every keybinding individually and checked them.
-
-Release Notes:
-
-- Removed the `ShowContextMenu` action, it's only usage was in the
-collab panel and it's been rebound to `SecondaryConfirm`</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3676ca8</div>
-                                        <div class="message">Extract Astro support into an extension (#9835)
-
-This PR extracts Astro support into an extension and removes the
-built-in Astro support from Zed.
-
-Release Notes:
-
-- Removed built-in support for Astro, in favor of making it available as
-an extension. The Astro extension will be suggested for download when
-you open a `.astro` file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7807f23</div>
-                                        <div class="message">Extract Dockerfile extension (#9832)
-
-This PR extracts Dockerfile support into an extension and removes the
-built-in Dockerfile support from Zed.
-
-There's already an existing [Dockerfile
-extension](https://github.com/d1y/dockerfile.zed) that was just missing
-language server support. Language server support is being added to that
-extension in https://github.com/d1y/dockerfile.zed/pull/2.
-
-Release Notes:
-
-- Removed built-in support for Dockerfile, in favor of making it
-available as an extension. The Dockerfile extension will be suggested
-for download when you open a `Dockerfile`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#181dc86</div>
-                                        <div class="message">Fix typo in PureScript extension's struct name (#9831)
-
-This PR fixes a copy/paste typo in the name of the PureScript
-extension's struct name.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e272acd</div>
-                                        <div class="message">collab ui: Fix notification windows on external monitors (#9817)
-
-Sharing a project displays a notification (window) on every screen.
-Previously there was an issue with the positioning of windows on all
-screens except the primary screen.
-
-As you can see here:
-
-
-![image](https://github.com/zed-industries/zed/assets/53836821/314cf367-8c70-4e8e-bc4a-dcbb99cb4f71)
-
-Now:
-
-
-![image](https://github.com/zed-industries/zed/assets/53836821/42af9ef3-8af9-453a-ad95-147b5f9d90ba)
-
-@mikayla-maki and I also decided to refactor the `WindowOptions` a bit. 
-Previously you could specify bounds which controlled the positioning and
-size of the window in the global coordinate space, while also providing
-a display id (which screen to show the window on). This can lead to
-unusual behavior because you could theoretically specify a global bound
-which does not even belong to the display id which was provided.
-
-Therefore we changed the api to this:
-```rust
-struct WindowOptions {
-    /// The bounds of the window in screen coordinates
-    /// None -&gt; inherit, Some(bounds) -&gt; set bounds.
-    pub bounds: Option&lt;Bounds&lt;DevicePixels&gt;&gt;,
-
-    /// The display to create the window on, if this is None,
-    /// the window will be created on the main display
-    pub display_id: Option&lt;DisplayId&gt;,
-}
-```
-
-This lets you specify a display id, which maps to the screen where the
-window should be created and bounds relative to the upper left of the
-screen.
-
-Release Notes:
-
-- Fixed positioning of popup windows (e.g. when sharing a project) when
-using multiple external displays.
-
----------
-
-Co-authored-by: Conrad Irwin &lt;conrad.irwin@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffd698b</div>
-                                        <div class="message">Remove lingering `uiua.rs` file (#9828)
-
-This PR removes a lingering file related to Uiua support.
-
-This file was no longer being referenced after #9085, but just hadn't
-been removed.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fd9165</div>
-                                        <div class="message">Fixed channel chat notifications are not working anymore (#9827)
-
-This PR will fix the following issues that were introduced by the
-following pull request #9557.
-
-- Cannot create messages with a mention inside it
-- Cannot invite a user
-- Cannot accept an invitation
-
-Release Notes:
-
-- Fixed channel chat notifications are not working anymore.
-
-Co-authored-by: Bennet Bo Fenner &lt;53836821+bennetbo@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9604b22</div>
-                                        <div class="message">Suppress error logs from `CopilotCompletionProvider` when Copilot is disabled (#9826)
-
-This PR fixes some noisy error logs from the `CopilotCompletionProvider`
-when Copilot is disabled entirely via the settings.
-
-I have the following in my settings file:
-
-```json
-{
-  "features": {
-    "copilot": false
-  },
-}
-```
-
-After #9777 I started seeing my Zed logs getting filled up with messages
-like this:
-
-```
-[2024-03-26T14:33:09-04:00 ERROR util] crates/copilot_ui/src/copilot_completion_provider.rs:206: copilot is disabled
-```
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd32ef6</div>
-                                        <div class="message">Use correct file extension for Haskell suggestions (#9825)
-
-This PR fixes the file extension used for suggesting the Haskell
-extension.
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8ef970</div>
-                                        <div class="message">Extract PureScript support into an extension (#9824)
-
-This PR extracts PureScript support into an extension and removes the
-built-in PureScript support from Zed.
-
-Release Notes:
-
-- Removed built-in support for PureScript, in favor of making it
-available as an extension. The PureScript extension will be suggested
-for download when you open a `.purs` file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d77cda1</div>
-                                        <div class="message">windows: Support compiling with MinGW toolchain (#9815)
-
-Fixes #9757: compile manifest using `embed-manifest` crate, which
-supports both MSVC and MinGW
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35b39e0</div>
-                                        <div class="message">Windows: Fullscreen (#9728)
-
-~~This is still a work in progress, but to show the public where I am
-working on it~~ Ready for review
-
-TODO:
-- [x] Justify fullscreen size to display
-- [x] Record and apply restored size
-
-Release Notes:
-
-- N/A</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc5a088</div>
-                                        <div class="message">Fix visual glitches in titlebar when there's an active prompt
-
-It looks like a fractional traffic lights position doesn't play well with Mac 12+.
-Related to #7339 and #8128</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbcff2a</div>
-                                        <div class="message">Extract Prisma support into an extension (#9820)
-
-This PR extracts Prisma support into an extension and removes the
-built-in Prisma support from Zed.
-
-Release Notes:
-
-- Removed built-in support for Prisma, in favor of making it available
-as an extension. The Prisma extension will be suggested for download
-when you open a `.prisma` file.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7144131</div>
-                                        <div class="message">Remove blank line in `Cargo.toml`</div>
+                                    <div>opened by shoeb00 in <span class="repo">YourAverageTechBro/DevToolboxWeb</span></div>
+                                    <div class="comment">
+                                        The main idea of the tool was the simplicity to use and availability to gather them at one place.
+making a collapse button sounds good, but some of these tools have never been used by other developers at any rate, it's a good choice to make them standout with label names as they are now.
+This Creates Ui friendly for the total site, at 20% of the viewport Cost, i think its a fair trade.
+@shoeb00 I suppose this could be taken up in the long run in the #DevToolBoxWeb development.
+We can create tasks under the planning section for the future.
+                                        <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                            <circle fill="#FFCC4D" cx="18" cy="18" r="18"/>
+                                            <path fill="#664500" d="M10.515 23.621C10.56 23.8 11.683 28 18 28c6.318 0 7.44-4.2 7.485-4.379.055-.217-.043-.442-.237-.554-.195-.111-.439-.078-.6.077C24.629 23.163 22.694 25 18 25s-6.63-1.837-6.648-1.855C11.256 23.05 11.128 23 11 23c-.084 0-.169.021-.246.064-.196.112-.294.339-.239.557z"/>
+                                            <ellipse fill="#664500" cx="12" cy="13.5" rx="2.5" ry="3.5"/>
+                                            <ellipse fill="#664500" cx="24" cy="13.5" rx="2.5" ry="3.5"/>
+                                        </svg>
+                                        @YourAverageTechBro  what do you say?
                                     </div>
                                 </div>
-                                <div class="timestamp">18 May 2024, 02:45:19</div>
+                                <div class="timestamp">18 May 2024, 10:39:02</div>
                             </section>
                         </div>
                     </section>
@@ -2567,7 +2267,7 @@ when you open a `.prisma` file.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2024, 10:37:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2024, 11:38:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
